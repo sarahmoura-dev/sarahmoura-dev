@@ -18,7 +18,7 @@ I build web applications and AI-powered automations that remove repetitive work 
 - **ILS Lab:** AI learning platform that uses computer vision to compare sign-language movements.
 - **Clara AI:** WhatsApp customer-service automation with n8n, AI models and Supabase.
 
-Demo versions of these projects will be published here soon.
+**Public demo:** [support-automation-demo](https://github.com/sarahmoura-dev/support-automation-demo), a customer-message automation backend (webhook, intent classification, human escalation) in Python + Flask. It mirrors the pattern I use in production, built with fictional data.
 
 ## Get in touch
 
